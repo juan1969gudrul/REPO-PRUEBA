@@ -19,7 +19,7 @@
 <img src="./images/dado_5.png" alt="">
 <img src="./images/dado_6.png" alt="">
 <form action="resuelve.php" method="post">
-    Nombre del jugador cambio nombreeee<input type="text" name="nombre" id=""><br />
+    Nombre del jugador<input type="text" name="nombre" id=""><br />
     <input type="submit" value="Tirar dado">
 </form>
 
